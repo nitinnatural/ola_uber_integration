@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UberDemo</string>
+    <string name="rupee_symbol">\u20B9</string>
+</resources>
